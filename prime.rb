@@ -16,4 +16,4 @@ def prime?(number)
   return true
 end
 
-prime?(97)
+puts prime?(97)
